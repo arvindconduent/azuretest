@@ -11,7 +11,7 @@ public class AzuretestApplication {
 	
 	@GetMapping ("/message")
 	public String message() {
-	     return "Hello world";
+	     return "Hello world Git hub actions testing";
 	}
 
 	public static void main(String[] args) {
